@@ -1,7 +1,7 @@
 /*
-Searches for the string w in the string s (of length k). Returns the
-0-based index of the first match (k if no match is found). Algorithm
-runs in O(k) time.
+Searches for the string w in the string s (of length k).
+Returns the 0-based index of the first match (k if no match is found).
+Algorithm runs in O(k) time.
 */
 
 typedef vector<int> VI;
