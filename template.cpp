@@ -34,7 +34,7 @@ int main() {
     cout << fixed << setprecision(15);
 
     int t = 1;
-    // std::cin >> t;
+    // cin >> t;
 
     while (t--) {
         solve();
